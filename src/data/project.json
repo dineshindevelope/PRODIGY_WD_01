@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "WhatsApp UI Clone",
+    "desc": "Whats App UI Clone Using HTML,CSS,Tailwind CSS",
+    "url": "https://pngimg.com/uploads/whatsapp/whatsapp_PNG95176.png",
+    "live": "https://dineshdevelope.github.io/WhatsApp-UI/",
+    "repo": "https://github.com/dineshdevelope/WhatsApp-UI"
+  },
+  {
+    "id": 2,
+    "title": "FaceBook UI Clone",
+    "desc": "FaceBook UI Clone Using HTML,CSS,Tailwind CSS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png",
+    "live": "https://dineshdevelope.github.io/Facebook-Login-Page/",
+    "repo": "https://github.com/dineshdevelope/Facebook-Login-Page"
+  },
+  {
+    "id": 3,
+    "title": "Instagram UI Clone",
+    "desc": "Instagram UI Clone Using HTML,CSS,Tailwind CSS",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png",
+    "live": "https://dineshdevelope.github.io/Instagram-UI-tailwind/",
+    "repo": "https://github.com/dineshdevelope/Instagram-UI-tailwind"
+  },
+  {
+    "id": 4,
+    "title": "Gpay UI Clone",
+    "desc": "Gapy UI Clone Using HTML,CSS,Tailwind CSS",
+    "url": "https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/217/Google_Pay_Send_logo-512.png",
+    "live": "https://dineshdevelope.github.io/Google-pay_UI/",
+    "repo": "https://github.com/dineshdevelope/Google-pay_UI"
+  }
+]
