@@ -8,7 +8,7 @@ const Header = () => {
               Hi <span class="waving-hand text-2xl">👋</span> My name is,
             </h4>
             <h2 class="hero-section-title">
-              <span class="logo-name">Dinesh S </span>
+              <span class="logo-name">Dinesh Singaram </span>
             </h2>
 
             <h2 class="hero-section-title">
